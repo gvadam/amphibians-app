@@ -1,39 +1,12 @@
-Amphibians - Starter Code
-==================================
+# Amphibians
 
-Starter code for the fourth independent project for Android Basics in Kotlin. This project pairs
-with Unit 4 of Android Basics in Kotlin
+- RecyclerView
+- Viewbinding
+- Viewmodel
+- Retrofit
+- Moshi
+- Navigation Component
 
-Introduction
-------------
+Data on amphibians are retrieved from an API and used to populate the home screen with a list. Each amphibian card is clickable and takes the user to a detail screen.
 
-This is the starter code for the Amphibian app project. This project is an opportunity for you to
-demonstrate the concepts you learned in Unit 4 of Android Basics in Kotlin.
-
-Pre-requisites
---------------
-
-- Complete Unit 1 of Android Basics in Kotlin
-- Complete Project 1: Lemonade App
-- Complete Unit 2 of Android Basics in Kotlin
-- Complete Project 2: Dogglers
-- Complete Unit 3 of Android Basics in Kotlin
-- Complete Project 3: Lunch Tray
-- Complete Unit 4 of Android Basics in Kotlin
-
-Getting Started
----------------
-
-1. Download the starter code
-2. Open the project in Android Studio
-3. Complete the project in accordance with the app requirements
-
-
-Tasks
----------------
-
-Tips
-----
-
-- Use the provided tests to ensure your app is running as expected
-- DO NOT ALTER THE PROVIDED TESTS
+<img width="199" alt="original_1" src="https://user-images.githubusercontent.com/115426604/200140893-55ccbe95-1407-4211-a7a3-0b850655b82d.png"> <img width="188" alt="original_2" src="https://user-images.githubusercontent.com/115426604/200140890-0c389db3-e52b-48b2-8c49-b41ab08bf34a.png">  
